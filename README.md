@@ -1,3 +1,5 @@
+Youtube demo of the app: https://www.youtube.com/watch?v=8h8QSgUF6g0  
+
 # Run off of Expo Snack
 
 Link: https://snack.expo.dev/@kliment/expense-tracker 
