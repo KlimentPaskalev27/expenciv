@@ -1,0 +1,850 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InsightsScreen /> should match snapshot 1`] = `
+<View
+  style={
+    {
+      "flex": 1,
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    accessibilityIgnoresInvertColors={true}
+    style={
+      {
+        "alignItems": "center",
+        "flex": 1,
+        "height": "100%",
+        "justifyContent": "center",
+        "resizeMode": "cover",
+        "width": "100%",
+      }
+    }
+  >
+    <Image
+      source={1}
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "height": "100%",
+            "width": "100%",
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        {
+          "flex": 1,
+          "padding": 20,
+        }
+      }
+    >
+      <RCTScrollView
+        style={
+          {
+            "flex": 1,
+            "padding": 20,
+          }
+        }
+      >
+        <View>
+          <Text
+            style={
+              {
+                "color": "white",
+                "fontSize": 26,
+                "fontWeight": "bold",
+                "marginBottom": 20,
+              }
+            }
+          >
+            Insights
+          </Text>
+          <View
+            style={
+              {
+                "backgroundColor": "rgba(0, 80, 80, 0.7)",
+                "borderColor": "#ccc",
+                "borderRadius": 8,
+                "borderWidth": 1,
+                "elevation": 5,
+                "marginBottom": 20,
+                "padding": 16,
+                "shadowColor": "#000",
+                "shadowOffset": {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.25,
+                "shadowRadius": 3.84,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Yearly Statistics
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Total Expenses: £
+              0.00
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Highest Spending Month: 
+              January
+               (£
+              0.00
+              )
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Lowest Spending Month: 
+              January
+               (£
+              0.00
+              )
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Average Monthly Spending: £
+              0.00
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "backgroundColor": "rgba(0, 80, 80, 0.7)",
+                "borderColor": "#ccc",
+                "borderRadius": 8,
+                "borderWidth": 1,
+                "elevation": 5,
+                "marginBottom": 20,
+                "padding": 16,
+                "shadowColor": "#000",
+                "shadowOffset": {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.25,
+                "shadowRadius": 3.84,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                }
+              }
+            >
+              January
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Total Expenses: £
+              0.00
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Number of Expenses: 
+              0
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "backgroundColor": "rgba(0, 80, 80, 0.7)",
+                "borderColor": "#ccc",
+                "borderRadius": 8,
+                "borderWidth": 1,
+                "elevation": 5,
+                "marginBottom": 20,
+                "padding": 16,
+                "shadowColor": "#000",
+                "shadowOffset": {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.25,
+                "shadowRadius": 3.84,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                }
+              }
+            >
+              February
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Total Expenses: £
+              0.00
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Number of Expenses: 
+              0
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "backgroundColor": "rgba(0, 80, 80, 0.7)",
+                "borderColor": "#ccc",
+                "borderRadius": 8,
+                "borderWidth": 1,
+                "elevation": 5,
+                "marginBottom": 20,
+                "padding": 16,
+                "shadowColor": "#000",
+                "shadowOffset": {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.25,
+                "shadowRadius": 3.84,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                }
+              }
+            >
+              March
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Total Expenses: £
+              0.00
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Number of Expenses: 
+              0
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "backgroundColor": "rgba(0, 80, 80, 0.7)",
+                "borderColor": "#ccc",
+                "borderRadius": 8,
+                "borderWidth": 1,
+                "elevation": 5,
+                "marginBottom": 20,
+                "padding": 16,
+                "shadowColor": "#000",
+                "shadowOffset": {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.25,
+                "shadowRadius": 3.84,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                }
+              }
+            >
+              April
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Total Expenses: £
+              0.00
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Number of Expenses: 
+              0
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "backgroundColor": "rgba(0, 80, 80, 0.7)",
+                "borderColor": "#ccc",
+                "borderRadius": 8,
+                "borderWidth": 1,
+                "elevation": 5,
+                "marginBottom": 20,
+                "padding": 16,
+                "shadowColor": "#000",
+                "shadowOffset": {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.25,
+                "shadowRadius": 3.84,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                }
+              }
+            >
+              May
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Total Expenses: £
+              0.00
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Number of Expenses: 
+              0
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "backgroundColor": "rgba(0, 80, 80, 0.7)",
+                "borderColor": "#ccc",
+                "borderRadius": 8,
+                "borderWidth": 1,
+                "elevation": 5,
+                "marginBottom": 20,
+                "padding": 16,
+                "shadowColor": "#000",
+                "shadowOffset": {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.25,
+                "shadowRadius": 3.84,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                }
+              }
+            >
+              June
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Total Expenses: £
+              0.00
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Number of Expenses: 
+              0
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "backgroundColor": "rgba(0, 80, 80, 0.7)",
+                "borderColor": "#ccc",
+                "borderRadius": 8,
+                "borderWidth": 1,
+                "elevation": 5,
+                "marginBottom": 20,
+                "padding": 16,
+                "shadowColor": "#000",
+                "shadowOffset": {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.25,
+                "shadowRadius": 3.84,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                }
+              }
+            >
+              July
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Total Expenses: £
+              0.00
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Number of Expenses: 
+              0
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "backgroundColor": "rgba(0, 80, 80, 0.7)",
+                "borderColor": "#ccc",
+                "borderRadius": 8,
+                "borderWidth": 1,
+                "elevation": 5,
+                "marginBottom": 20,
+                "padding": 16,
+                "shadowColor": "#000",
+                "shadowOffset": {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.25,
+                "shadowRadius": 3.84,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                }
+              }
+            >
+              August
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Total Expenses: £
+              0.00
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Number of Expenses: 
+              0
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "backgroundColor": "rgba(0, 80, 80, 0.7)",
+                "borderColor": "#ccc",
+                "borderRadius": 8,
+                "borderWidth": 1,
+                "elevation": 5,
+                "marginBottom": 20,
+                "padding": 16,
+                "shadowColor": "#000",
+                "shadowOffset": {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.25,
+                "shadowRadius": 3.84,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                }
+              }
+            >
+              September
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Total Expenses: £
+              0.00
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Number of Expenses: 
+              0
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "backgroundColor": "rgba(0, 80, 80, 0.7)",
+                "borderColor": "#ccc",
+                "borderRadius": 8,
+                "borderWidth": 1,
+                "elevation": 5,
+                "marginBottom": 20,
+                "padding": 16,
+                "shadowColor": "#000",
+                "shadowOffset": {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.25,
+                "shadowRadius": 3.84,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                }
+              }
+            >
+              October
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Total Expenses: £
+              0.00
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Number of Expenses: 
+              0
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "backgroundColor": "rgba(0, 80, 80, 0.7)",
+                "borderColor": "#ccc",
+                "borderRadius": 8,
+                "borderWidth": 1,
+                "elevation": 5,
+                "marginBottom": 20,
+                "padding": 16,
+                "shadowColor": "#000",
+                "shadowOffset": {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.25,
+                "shadowRadius": 3.84,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                }
+              }
+            >
+              November
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Total Expenses: £
+              0.00
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Number of Expenses: 
+              0
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "backgroundColor": "rgba(0, 80, 80, 0.7)",
+                "borderColor": "#ccc",
+                "borderRadius": 8,
+                "borderWidth": 1,
+                "elevation": 5,
+                "marginBottom": 20,
+                "padding": 16,
+                "shadowColor": "#000",
+                "shadowOffset": {
+                  "height": 2,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.25,
+                "shadowRadius": 3.84,
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                }
+              }
+            >
+              December
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Total Expenses: £
+              0.00
+            </Text>
+            <Text
+              style={
+                {
+                  "color": "white",
+                  "fontSize": 16,
+                  "marginBottom": 10,
+                }
+              }
+            >
+              Number of Expenses: 
+              0
+            </Text>
+          </View>
+        </View>
+      </RCTScrollView>
+    </View>
+  </View>
+</View>
+`;
