@@ -1,0 +1,6 @@
+img1  https://www.pexels.com/photo/gradient-background-with-bright-multicolored-lights-7130548/
+img2  https://www.pexels.com/photo/colorful-abstract-lights-reflection-with-dark-lines-6843588/
+img3  https://unsplash.com/photos/Hgb4gzB1ZPs 
+icons  https://icons8.com/
+logo  https://www.shopify.com/tools/logo-maker 
+
