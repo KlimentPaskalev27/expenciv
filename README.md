@@ -2,6 +2,9 @@
 
 Youtube video for running locally from scratch: https://www.youtube.com/watch?v=8d5XSXsjJ7U
 
+Note: the folder jest_filesystem has same files as project, but they are edited to match Jest requirements + they have extra files for Jest. Only use that folder when using Jest.
+
+
 ## Getting started
 
 ### Need Node and npm on computer.
